@@ -142,7 +142,7 @@ const App = () => {
     }
     enterCurrentText(charArray.join("").toLowerCase());
 }
-
+console.log(boardData)
   return (
         <div className='container'>
           <div className='top'>
